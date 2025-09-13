@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/RichyP48/Inscription-en-ligne
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/RichyP48/Inscription-en-ligne
